@@ -15,11 +15,11 @@
     <PackageLicenseUrl>https://github.com/cdorst/DevOps.Code.DataAccess.Services.DataRepository/blob/master/LICENSE</PackageLicenseUrl>
     <PackageProjectUrl>https://github.com/cdorst/DevOps.Code.DataAccess.Services.DataRepository</PackageProjectUrl>
     <RepositoryUrl>https://github.com/cdorst/DevOps.Code.DataAccess.Services.DataRepository</RepositoryUrl>
-    <Version>1.0.0</Version>
+    <Version>1.0.1</Version>
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="CDorst.DevOps.Code.DataAccess.Interfaces.Repository" Version="1.0.0" />
+    <PackageReference Include="CDorst.DevOps.Code.DataAccess.Interfaces.Repository" Version="1.0.1" />
   </ItemGroup>
 
 </Project>
